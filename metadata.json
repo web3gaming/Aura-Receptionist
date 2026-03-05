@@ -1,0 +1,7 @@
+{
+  "name": "Aura Receptionist",
+  "description": "AI-powered front desk receptionist with real-time voice calling features.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
